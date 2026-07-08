@@ -2,7 +2,26 @@
 **list of contents:**
 * [Phase 1: design](#phase-1-design)
   * [Log(1) date: 09.07.2026  00.29 / *Old printer disassembly*](#log-1-09072026-0029-old-printer-disassembly)
- 
+
+g
+
+g
+
+g
+
+g
+
+g
+
+g
+
+g
+
+g
+
+g
+
+##Phase 1: design
     
 g
 
@@ -91,6 +110,6 @@ g
 g
 g
 g
-### Log 1 09.07.2026 00.29 *Old printer disassembly*
+### Log (1) 09.07.2026 00.29 *Old printer disassembly*
 
 g
