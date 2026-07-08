@@ -13,10 +13,10 @@ For convenience each log will be listed in the list of contents below.
 ## Phase 1: design
 
 ### Log (1) 09.07.2026 00.29 *Old printer disassembly:*
-Today I have disassembled my old 3d printer. I have done it for two main reasons. which are:
-Firstly I wanted to refresh my memory on how does 3d printer work before making a new design, and to try and locate the reason for the printers recurring jamming. 
-Second reason is I wanted to see wich parts are functional and there fore which parts can I reuse in the new printer(to cut the costs of the project)
-I've menaged to dissasembly almost all core elements in two sessions resulting in total time a little under 3h. 
+Today I have disassembled my old 3d printer. I have done it for two main reasons, which are:
+Firstly I wanted to refresh my memory on how does 3d printer work before making a new design, and to try and locate the reason for the printer recurring jamming. 
+Second reason is I wanted to see wich parts are functional and therefore which parts can I reuse in new printer(to cut the costs of the project)
+I've managed to dissasembly almost all core elements in two sessions resulting in total time a little under 3h. 
 
 During the dissasembly I've noticed that many parts are dusty. I belive that dust may have caused many of the problems I had in the past, so i have noted down to design dust covers in my new design. I am thinking of large plastic box with fans for air circulation. 
 
