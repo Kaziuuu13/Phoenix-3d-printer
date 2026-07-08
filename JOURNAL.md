@@ -41,7 +41,7 @@ g
 
 g
 
-##Phase 1: design
+## Phase 1: design
     
 g
 
