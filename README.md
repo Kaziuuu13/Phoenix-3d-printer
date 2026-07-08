@@ -4,7 +4,7 @@
 
   
   Whole idea is to design and assemble a working 3d printer using easly accesible parts e.g. using angle brackets instead of 3d printed stepper motor mounts. After I am done with initial design I will be able to print these parts myself and keep on upgrading my 3d printer's capabilities. 
-I will be documenting progres in the JOURNAL.md in this repo. My goal is to make this project as easy to modify or replicate by anyone who would want to do anything similar in the future. 
+I will be documenting progres in the JOURNAL.md in this repo. My goal is to make this project as easy to modify or replicate by anyone who would want to build anything similar in the future. 
 
 
 
